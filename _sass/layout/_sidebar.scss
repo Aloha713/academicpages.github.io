@@ -260,3 +260,10 @@
     }
   }
 }
+
+.author__softlab-icon {
+  height: 18px;          // Font Awesome 아이콘 크기와 동일
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.6em;   // icon-pad-right 역할
+}

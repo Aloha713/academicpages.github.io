@@ -35,25 +35,6 @@
 
     <ul class="author__urls social-icons">
 
-      <!-- ================= Lab (CUSTOM, same style) ================= -->
-      {% if author.lab1 %}
-        <li>
-          <a href="{{ author.lab1 }}" target="_blank" rel="noopener">
-            <i class="fas fa-fw fa-flask icon-pad-right" aria-hidden="true"></i>
-            Lab Website
-          </a>
-        </li>
-
-        <li class="author__lab-logo">
-          <a href="{{ author.lab1 }}" target="_blank" rel="noopener">
-            <img src="{{ '/images/Softlab.png' | prepend: base_path }}"
-                 alt="SoftLab"
-                 loading="lazy" />
-          </a>
-        </li>
-      {% endif %}
-      <!-- ============================================================ -->
-
       <!-- Biographic information -->
       {% if author.location %}
         <li class="author__desktop">
@@ -93,6 +74,18 @@
           <a href="{{ author.googlescholar }}">
             <i class="ai ai-google-scholar ai-fw icon-pad-right"></i>
             Google Scholar
+          </a>
+        </li>
+      {% endif %}
+
+      <!-- Softlab (CUSTOM) : placed right below Google Scholar -->
+      {% if author.lab1 %}
+        <li class="author__softlab">
+          <a href="{{ author.lab1 }}" target="_blank" rel="noopener">
+            <img src="{{ '/images/Softlab.png' | prepend: base_path }}"
+                 alt="Softlab"
+                 class="author__softlab-icon" />
+            Softlab
           </a>
         </li>
       {% endif %}
