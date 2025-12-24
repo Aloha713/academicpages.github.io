@@ -39,7 +39,6 @@ Recognized for outstanding academic performance (top 5% of the department).
 
 - **Leidenfrost-induced active matter dynamics of spherical hydrogels**  
   *(APS Division of Fluid Dynamics Meeting 2025)*
-
   <details class="talk-toggle">
     <summary>📷 View presentation photos</summary>
     <div class="portfolio-row">
@@ -48,9 +47,10 @@ Recognized for outstanding academic performance (top 5% of the department).
     </div>
   </details>
 
+
+
 - **Leidenfrost-induced active matter dynamics of spherical hydrogels**  
   *(Asian Congress of Fluid Mechanics 2025)*
-
   <details class="talk-toggle">
     <summary>📷 View presentation photos</summary>
     <div class="portfolio-row">
@@ -58,6 +58,8 @@ Recognized for outstanding academic performance (top 5% of the department).
       <img src="/images/18ACFM2025.jpeg" class="portfolio-img photo" alt="ACFM 2025 photo">
     </div>
   </details>
+
+
 
 - **Leidenfrost-induced active matter dynamics of spherical hydrogels**  
   *(KSME Annual Conference 2024)*
