@@ -80,3 +80,31 @@ html[data-theme="dark"] .section-block::before {
   width: 320px;
   object-fit: cover;
 }
+
+/* Conference presentation list styling */
+
+.talk-meta {
+  display: block;
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 0.1rem;
+}
+
+.talk-title {
+  display: block;
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0.2rem 0;
+}
+
+.talk-action {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: #1a73e8;
+  margin-top: 0.2rem;
+  cursor: pointer;
+}
+
+.talk-action:hover {
+  text-decoration: underline;
+}
