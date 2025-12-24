@@ -70,7 +70,7 @@ html[data-theme="dark"] .section-block::before {
 }
 
 .portfolio-img {
-  height: 260px;          /* ← 여기서 높이 통일 */
+  height: 200px;          /* ← 여기서 높이 통일 */
   width: auto;
   object-fit: contain;   /* 잘리지 않게 */
   border-radius: 6px;    /* 선택 */

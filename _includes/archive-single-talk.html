@@ -47,12 +47,26 @@
     {% endif %}
 
     {%- comment -%}
-    Keep "More information" on the list page,
-    but NEVER show auto-excerpt (it can contain images).
+    Show excerpt text (so "More information →" in the talk body appears),
+    but NEVER show images in the list view.
+    This relies on excerpt_separator: "<!--more-->" in _config.yml.
+    {%- endcomment -%}
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt
+          | replace_regex: '<a[^>]*>\s*<img[^>]*>\s*</a>', ''
+          | replace_regex: '<img[^>]*>', ''
+          | markdownify
+        }}
+      </p>
+    {% endif %}
+
+    {%- comment -%}
+    If you also use front-matter 'link:' (optional), keep it as an extra line.
     {%- endcomment -%}
     {% if post.link %}
       <p class="archive__item-excerpt">
-        <a href="{{ post.link }}" target="_blank" rel="noopener">More information here</a>
+        <a href="{{ post.link }}" target="_blank" rel="noopener">More information →</a>
       </p>
     {% endif %}
 
