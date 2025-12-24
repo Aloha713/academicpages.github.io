@@ -34,12 +34,6 @@
       {% endif %}
     </h2>
 
-    {% if post.read_time %}
-      <p class="page__meta">
-        <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-      </p>
-    {% endif %}
-
     {% if post.date %}
       <p class="page__meta">
         <i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
@@ -53,17 +47,12 @@
     {% endif %}
 
     {%- comment -%}
-    Hide ONLY images in the list view:
-    - keep text/links (e.g., "More information here")
-    - remove <img ...> tags from auto-generated excerpts
+    Keep "More information" on the list page,
+    but NEVER show auto-excerpt (it can contain images).
     {%- endcomment -%}
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt
-          | replace_regex: '<a[^>]*>\s*<img[^>]*>\s*</a>', ''
-          | replace_regex: '<img[^>]*>', ''
-          | markdownify
-        }}
+    {% if post.link %}
+      <p class="archive__item-excerpt">
+        <a href="{{ post.link }}" target="_blank" rel="noopener">More information here</a>
       </p>
     {% endif %}
 
