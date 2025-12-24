@@ -86,14 +86,16 @@ html[data-theme="dark"] .section-block::before {
   display: block;
   font-size: 0.85rem;
   color: #777;
-  margin: 0.1rem 0 0.15rem 0;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;   /* ← 기존보다 줄임 */
 }
 
 .talk-title {
   display: block;
   font-size: 1rem;
   font-weight: 500;
-  margin: 0 0 0.15rem 0;
+  margin-top: 0;
+  margin-bottom: 0.15rem; /* ← 핵심 */
 }
 
 .talk-action {
@@ -102,7 +104,8 @@ html[data-theme="dark"] .section-block::before {
   gap: 0.3rem;
   font-size: 0.85rem;
   color: #1158b5;
-  margin: 0.05rem 0 0.35rem 0;
+  margin-top: 0.05rem;    /* ← 거의 붙이기 */
+  margin-bottom: 0;      /* ← 섹터 간격에 영향 X */
   cursor: pointer;
 }
 
