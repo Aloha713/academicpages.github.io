@@ -22,7 +22,7 @@ author_profile: true
   - **Keywords**: Active matter, Elastic Leidenfrost effect, Hair dynamics  
   - **Advisor**: Prof. [Jonghyun Ha](https://www.ajou.ac.kr/me/people/faculty.do?mode=view&empl_no=$cms$EwBmwRhAWZqA&mngt_no=$cms$EwBmwRhAWZqA&uniCd=h&deptCd=$cms$CIZQDAzGYIxgTDIA&cate=2) 
 
-<br/>
+&nbsp;
 
 - **Undergraduate Research Student** (*Mar 2023 – Aug 2025*)  
   [Softlab](https://www.softlab.ajou.ac.kr), Ajou University   
@@ -38,7 +38,7 @@ author_profile: true
     - **Spring 2024, Spring 2025** <br/>
     Recognized for outstanding academic performance (top 5% of the department).
 
-<br/>
+&nbsp;
 
 - **Capstone Design Award (2025) – Ajou University**
     - **Project**: Compliant-mechanism-based knee assistive device for degenerative osteoarthritis prevention  
@@ -47,7 +47,7 @@ author_profile: true
         - [Project Poster](https://linc.ajou.ac.kr/acot/?m=30002&mode=view&idx=2557)
         - [Award Ceremony Photo](https://www.ajou.ac.kr/kr/ajou/news.do?mode=view&articleNo=350539)
 
-<br/>
+&nbsp;
 
 - **Gyeonggi-do Assistive Device Idea Competition (2025)**
     - **Organized by**: Gyeonggi province rehabilitation engineering service support center  
