@@ -23,10 +23,10 @@
 
   "work": [
     {
-      "position": "• Graduate Research Student",
+      "position": "Graduate Research Student",
       "institution": "Ajou University",
       "lab": "Softlab",
-      "startDate": "2025-09",
+      "startDate": "Sep 2025",
       "endDate": "Present",
       "advisor": "Prof. Jonghyun Ha",
       "topics": [
@@ -40,11 +40,11 @@
       ]
     },
     {
-      "position": "• Undergraduate Research Student",
+      "position": "Undergraduate Research Student",
       "institution": "Ajou University",
       "lab": "Softlab",
-      "startDate": "2023-03",
-      "endDate": "2025-08",
+      "startDate": "Mar 2023",
+      "endDate": "Aug 2025",
       "advisor": "Prof. Jonghyun Ha",
       "topics": [
         "Boundary-driven active matter in soft hydrogels"
@@ -58,7 +58,7 @@
 
   "education": [
     {
-      "institution": "• Ajou University",
+      "institution": "Ajou University",
       "area": "Mechanical Engineering",
       "studyType": "M.S.",
       "startDate": "2025-09",
@@ -67,7 +67,7 @@
       "courses": []
     },
     {
-      "institution": "• Ajou University",
+      "institution": "Ajou University",
       "area": "Mechanical Engineering",
       "studyType": "B.S.",
       "startDate": "2020-03",
@@ -86,21 +86,21 @@
   "presentations": [
     {
       "name": "Leidenfrost-induced active matter dynamics of spherical hydrogels",
-      "event": "• APS Division of Fluid Dynamics Meeting",
+      "event": "APS Division of Fluid Dynamics Meeting",
       "location": "Houston, TX, USA",
       "date": "2025-11",
       "description": ""
     },
     {
       "name": "Leidenfrost-induced active matter dynamics of spherical hydrogels",
-      "event": "• Asian Congress of Fluid Mechanics",
+      "event": "Asian Congress of Fluid Mechanics",
       "location": "Seoul, South Korea",
       "date": "2025-09",
       "description": ""
     },
     {
       "name": "Explosive motion of spherical hydrogel via the Leidenfrost effect",
-      "event": "• KSME Annual Conference",
+      "event": "KSME Annual Conference",
       "location": "Jeju, South Korea",
       "date": "2024-11",
       "description": ""
@@ -109,19 +109,19 @@
 
   "awards": [
     {
-      "title": "• Dean’s List",
+      "title": "Dean’s List",
       "date": "Spring 2024, Spring 2025",
       "awarder": "Ajou University",
       "summary": "Recognized for outstanding academic performance (top 5% of the department)."
     },
     {
-      "title": "• Capstone Design Award",
+      "title": "Capstone Design Award",
       "date": "2025",
       "awarder": "Ajou University",
       "summary": "Awarded for a capstone project on a compliant-mechanism-based knee assistive device."
     },
     {
-      "title": "• Gyeonggi-do Assistive Device Idea Competition",
+      "title": "Gyeonggi-do Assistive Device Idea Competition",
       "date": "2025",
       "awarder": "Gyeonggi province rehabilitation engineering service support center (South Korea)",
       "summary": "Awarded for a user-centered assistive device concept for older adults."
