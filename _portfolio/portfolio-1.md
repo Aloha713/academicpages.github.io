@@ -5,16 +5,16 @@ author_profile: true
 ---
 ## 🎓 Education
 
-- **M.S. in Mechanical Engineering** (*Sep. 2025 – Present*)<br/>
+- **M.S. in Mechanical Engineering** (*Sep 2025 – Present*)<br/>
   [Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea   
 
-- **B.S. in Mechanical Engineering** (*Mar. 2020 – Aug. 2025*)<br/>
+- **B.S. in Mechanical Engineering** (*Mar 2020 – Aug. 2025*)<br/>
   [Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea
 
 
 ## 🧐 Research Experience
 
-- **Graduate Research Student** (*Sep. 2025 – Present*)  
+- **Graduate Research Student** (*Sep 2025 – Present*)  
   [Softlab](https://www.softlab.ajou.ac.kr), Ajou University  
   - **Topics**: Boundary-driven active matter in soft hydrogels
     - Boundary-driven active matter in soft hydrogels
@@ -22,7 +22,8 @@ author_profile: true
   - **Keywords**: Active matter, Elastic Leidenfrost effect, Hair dynamics  
   - **Advisor**: Prof. [Jonghyun Ha](https://www.ajou.ac.kr/me/people/faculty.do?mode=view&empl_no=$cms$EwBmwRhAWZqA&mngt_no=$cms$EwBmwRhAWZqA&uniCd=h&deptCd=$cms$CIZQDAzGYIxgTDIA&cate=2) 
 
-- **Undergraduate Research Student** (*Mar. 2023 – Aug. 2025*)  
+
+- **Undergraduate Research Student** (*Mar 2023 – Aug 2025*)  
   [Softlab](https://www.softlab.ajou.ac.kr), Ajou University   
   - **Topics**: Boundary-driven active matter in soft hydrogels  
   - **Keywords**: Active matter, Elastic Leidenfrost effect  
@@ -36,13 +37,14 @@ author_profile: true
     - **Spring 2024, Spring 2025** <br/>
     Recognized for outstanding academic performance (top 5% of the department).
 
+
 - **Capstone Design Award (2025) – Ajou University**
     - **Project**: Compliant-mechanism-based knee assistive device for degenerative osteoarthritis prevention  
     - **Role**: Mechanical system design and prototyping, CAD-based modeling, machine learning, and theoretical modeling  
     - **Materials**:
         - [Project Poster](https://linc.ajou.ac.kr/acot/?m=30002&mode=view&idx=2557)
         - [Award Ceremony Photo](https://www.ajou.ac.kr/kr/ajou/news.do?mode=view&articleNo=350539)
-<br/>
+
 
 - **Gyeonggi-do Assistive Device Idea Competition (2025)**
     - **Organized by**: Gyeonggi province rehabilitation engineering service support center  
