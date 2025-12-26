@@ -3,6 +3,36 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+## 🎓 Education
+
+**Sep. 2025 – Present**  
+**M.S. in Mechanical Engineering**  
+[Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea  
+
+**Mar. 2020 – Aug. 2025**  
+**B.S. in Mechanical Engineering**  
+[Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea  
+
+
+## 🧐 Research Experience
+
+**Graduate Research Student**  
+Softlab, Ajou University  
+*Sep. 2025 – Present*  
+
+- **Topics**: Boundary-driven active matter in soft hydrogels, Hair dynamics  
+- **Keywords**: Active matter, Elastic Leidenfrost effect, Hair dynamics  
+- **Advisor**: Prof. Jonghyun Ha  
+
+**Undergraduate Research Student**  
+Softlab, Ajou University  
+*Mar. 2023 – Aug. 2025*  
+
+- **Topics**: Boundary-driven active matter in soft hydrogels  
+- **Keywords**: Active matter, Elastic Leidenfrost effect  
+- **Advisor**: Prof. Jonghyun Ha  
+
+
 
 ## 🏆 Awards & Honors
 
@@ -41,7 +71,7 @@ author_profile: true
 
 ## 🎤 Conference Presentations
 
-- **APS Division of Fluid Dynamics Meeting 2025** <span class="talk-meta">(Houston, TX, USA · Nov 2025)</span>
+- **APS Division of Fluid Dynamics Meeting** <span class="talk-meta">(Houston, TX, USA · Nov 2025)</span>
   **<span class="talk-title">Leidenfrost-induced active matter dynamics of spherical hydrogels</span>**
   <details class="talk-toggle">
     <summary class="talk-action">View presentation photos</summary>
@@ -52,7 +82,7 @@ author_profile: true
   </details>
 <br/>
 
-- **Asian Congress of Fluid Mechanics 2025** <span class="talk-meta">(Seoul, South Korea · Sep 2025)</span>
+- **Asian Congress of Fluid Mechanics** <span class="talk-meta">(Seoul, South Korea · Sep 2025)</span>
   **<span class="talk-title">Leidenfrost-induced active matter dynamics of spherical hydrogels</span>**
   <details class="talk-toggle">
     <summary class="talk-action">View presentation photos</summary>
@@ -63,7 +93,7 @@ author_profile: true
   </details>
 <br/>
 
-- **KSME Annual Conference 2024**  <span class="talk-meta">(Jeju, South Korea · Nov 2024)</span>
+- **KSME Annual Conference**  <span class="talk-meta">(Jeju, South Korea · Nov 2024)</span>
   **<span class="talk-title">Explosive motion of spherical hydrogel via Leidenfrost effect</span>**
   <details class="talk-toggle">
     <summary class="talk-action">View presentation photos</summary>
