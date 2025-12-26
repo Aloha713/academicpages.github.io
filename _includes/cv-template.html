@@ -89,17 +89,23 @@
   </div>
   {% endif %}
 
-  <!-- Work Experience -->
+<!-- Experience (Research/Work combined) -->
   {% if cv.work and cv.work.size > 0 %}
   <div class="cv-section">
-    <h2>Work Experience</h2>
+    <h2>Research Experience</h2>
     <ul class="cv-list">
       {% for work in cv.work %}
       <li class="cv-item">
+
         <div class="cv-item-header">
+          <!-- 한 줄: Position — Institution (Lab) -->
           <div class="cv-item-title">
-            {{ work.company }} <span class="cv-item-sep">·</span> {{ work.position }}
+            {{ work.position }}
+            {% if work.institution %} — {{ work.institution }}{% endif %}
+            {% if work.lab %} ({{ work.lab }}){% endif %}
           </div>
+
+          <!-- 날짜 -->
           <div class="cv-item-date">
             {% if work.startDate %}{{ work.startDate }}{% endif %}
             {% if work.startDate and work.endDate %} – {% endif %}
@@ -108,45 +114,19 @@
         </div>
 
         <div class="cv-item-content">
+          {% if work.topics and work.topics.size > 0 %}
+          <div class="cv-item-detail"><strong>Topics:</strong> {{ work.topics | join: ", " }}</div>
+          {% endif %}
+
+          {% if work.keywords and work.keywords.size > 0 %}
+          <div class="cv-item-detail"><strong>Keywords:</strong> {{ work.keywords | join: ", " }}</div>
+          {% endif %}
+
           {% if work.advisor %}
-          <div class="cv-item-detail cv-compact"><strong>Advisor:</strong> {{ work.advisor }}</div>
-          {% endif %}
-
-          {% if work.summary and work.summary != "" %}
-          <div class="cv-item-detail cv-compact">{{ work.summary }}</div>
+          <div class="cv-item-detail"><strong>Advisor:</strong> {{ work.advisor }}</div>
           {% endif %}
         </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 
-  <!-- Research Experience -->
-  {% if cv.research and cv.research.size > 0 %}
-  <div class="cv-section">
-    <h2>Research Experience</h2>
-    <ul class="cv-list">
-      {% for r in cv.research %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ r.institution }} <span class="cv-item-sep">·</span> {{ r.role }}</div>
-          <div class="cv-item-date">
-            {% if r.startDate %}{{ r.startDate }}{% endif %}
-            {% if r.startDate and r.endDate %} – {% endif %}
-            {% if r.endDate %}{{ r.endDate }}{% endif %}
-          </div>
-        </div>
-
-        <div class="cv-item-content">
-          {% if r.topics and r.topics.size > 0 %}
-          <div class="cv-item-detail cv-compact"><strong>Topics:</strong> {{ r.topics | join: ", " }}</div>
-          {% endif %}
-
-          {% if r.keywords and r.keywords.size > 0 %}
-          <div class="cv-item-detail cv-compact"><strong>Keywords:</strong> {{ r.keywords | join: ", " }}</div>
-          {% endif %}
-        </div>
       </li>
       {% endfor %}
     </ul>

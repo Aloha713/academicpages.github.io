@@ -23,44 +23,29 @@
 
   "work": [
     {
-      "company": "Softlab, Ajou University",
-      "location": "Suwon, South Korea",
       "position": "Graduate Research Student",
+      "institution": "Ajou University",
+      "lab": "Softlab",
       "startDate": "2025-09",
       "endDate": "Present",
-      "advisor": "Prof. Jonghyun Ha"
-    },
-    {
-      "company": "Softlab, Ajou University",
-      "location": "Suwon, South Korea",
-      "position": "Undergraduate Research Student",
-      "startDate": "2023-03",
-      "endDate": "2025-08",
-      "advisor": "Prof. Jonghyun Ha"
-    }
-  ],
-
-  "research": [
-    {
-      "institution": "Softlab, Ajou University",
-      "role": "Graduate Research Student",
-      "startDate": "2025-09",
-      "endDate": "Present",
+      "advisor": "Prof. Jonghyun Ha",
       "topics": [
         "Boundary-driven active matter in soft hydrogels",
-        "Hair dynamics"
+        "Hair Frizz dynamics"
       ],
       "keywords": [
         "Active matter",
         "Elastic Leidenfrost effect",
-        "Hair dynamics"
+        "Hair Frizz dynamics"
       ]
     },
     {
-      "institution": "Softlab, Ajou University",
-      "role": "Undergraduate Research Student",
+      "position": "Undergraduate Research Student",
+      "institution": "Ajou University",
+      "lab": "Softlab",
       "startDate": "2023-03",
       "endDate": "2025-08",
+      "advisor": "Prof. Jonghyun Ha",
       "topics": [
         "Boundary-driven active matter in soft hydrogels"
       ],
