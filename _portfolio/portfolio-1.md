@@ -5,11 +5,10 @@ author_profile: true
 ---
 ## 🎓 Education
 
-**M.S. in Mechanical Engineering** (*Sep. 2025 – Present*) 
-[Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea  
- 
- 
-**B.S. in Mechanical Engineering** (*Mar. 2020 – Aug. 2025*)  
+**M.S. in Mechanical Engineering** (*Sep. 2025 – Present*)<br/> 
+[Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea   
+
+**B.S. in Mechanical Engineering** (*Mar. 2020 – Aug. 2025*)<br/>  
 [Ajou University](https://www.ajou.ac.kr/en/index.do#a), Suwon, South Korea
 
 
@@ -17,9 +16,11 @@ author_profile: true
 
 **Graduate Research Student** (*Sep. 2025 – Present*)  
 [Softlab](https://www.softlab.ajou.ac.kr), Ajou University  
-- **Topics**: Boundary-driven active matter in soft hydrogels, Hair dynamics  
+- **Topics**: Boundary-driven active matter in soft hydrogels
+  - Boundary-driven active matter in soft hydrogels
+  - Hair Frizz dynamics 
 - **Keywords**: Active matter, Elastic Leidenfrost effect, Hair dynamics  
-- **Advisor**: Prof. [Jonghyun Ha](https://www.ajou.ac.kr/me/people/faculty.do?mode=view&empl_no=$cms$EwBmwRhAWZqA&mngt_no=$cms$EwBmwRhAWZqA&uniCd=h&deptCd=$cms$CIZQDAzGYIxgTDIA&cate=2) 
+- **Advisor**: Prof. [Jonghyun Ha](https://www.ajou.ac.kr/me/people/faculty.do?mode=view&empl_no=$cms$EwBmwRhAWZqA&mngt_no=$cms$EwBmwRhAWZqA&uniCd=h&deptCd=$cms$CIZQDAzGYIxgTDIA&cate=2)<br/>  
 
 **Undergraduate Research Student** (*Mar. 2023 – Aug. 2025*)  
 [Softlab](https://www.softlab.ajou.ac.kr), Ajou University   
@@ -33,18 +34,14 @@ author_profile: true
 
 - **[Dean’s List](https://www.ajou.ac.kr/eng/intro/dean-2021-2023.do#a1)** <br/>
     - **Spring 2024, Spring 2025** <br/>
-    Recognized for outstanding academic performance (top 5% of the department).
-
-<br/>
+    Recognized for outstanding academic performance (top 5% of the department).<br/>
 
 - **Capstone Design Award (2025) – Ajou University** <br/>
     - **Project**: Compliant-mechanism-based knee assistive device for degenerative osteoarthritis prevention  
     - **Role**: Mechanical system design and prototyping, CAD-based modeling, machine learning, and theoretical modeling  
     - **Materials**:
         - [Project Poster](https://linc.ajou.ac.kr/acot/?m=30002&mode=view&idx=2557)
-        - [Award Ceremony Photo](https://www.ajou.ac.kr/kr/ajou/news.do?mode=view&articleNo=350539)
-
-<br/>
+        - [Award Ceremony Photo](https://www.ajou.ac.kr/kr/ajou/news.do?mode=view&articleNo=350539)<br/>
 
 - **Gyeonggi-do Assistive Device Idea Competition (2025)** <br/> 
     - **Organized by**: Gyeonggi province rehabilitation engineering service support center  
@@ -74,8 +71,7 @@ author_profile: true
       <img src="/images/APSDFD2025/APSDFD2025.jpg" class="portfolio-img slide">
       <img src="/images/APSDFD2025/APSDFD2025.jpeg" class="portfolio-img photo">
     </div>
-  </details>
-<br/>
+  </details><br/>
 
 - **Asian Congress of Fluid Mechanics** <span class="talk-meta">(Seoul, South Korea · Sep 2025)</span>
   **<span class="talk-title">Leidenfrost-induced active matter dynamics of spherical hydrogels</span>**
@@ -85,8 +81,7 @@ author_profile: true
       <img src="/images/18ACFM/18ACFM2025.jpg" class="portfolio-img slide">
       <img src="/images/18ACFM/18ACFM2025.jpeg" class="portfolio-img photo">
     </div>
-  </details>
-<br/>
+  </details><br/>
 
 - **KSME Annual Conference**  <span class="talk-meta">(Jeju, South Korea · Nov 2024)</span>
   **<span class="talk-title">Explosive motion of spherical hydrogel via Leidenfrost effect</span>**
